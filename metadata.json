@@ -4,5 +4,6 @@
     "project_description": "paper airplane trading market place",
     "creation_time": "2024-08-26 15:55:07.378173",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image features a surreal sci-fi landscape with a vivid pink and purple color scheme, highlighting a futuristic, ethereal setting with planets and jagged terrain. The use of vibrant neon tones creates a dreamlike, otherworldly atmosphere."
 }
