@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive tutorial guiding new users on how to use the Hadoken feature\", \"checked\": true}, {\"feature\": \"Customizable paper airplane skins that can be applied via the Hadoken button\", \"checked\": false}, {\"feature\": \"Leaderboards for users who frequently use the Hadoken feature in trades\", \"checked\": false}, {\"feature\": \"Real-time visual effects to accompany the Hadoken action\", \"checked\": true}, {\"feature\": \"Sound effects to enhance the Hadoken button interaction experience\", \"checked\": true}, {\"feature\": \"A feedback form for users to suggest improvements on the Hadoken feature\", \"checked\": false}], \"input_token_count\": 278, \"output_token_count\": 134, \"time_taken\": \"0:00:05.623452\"}",
+        "message_id": "guest27082024183244",
+        "timestamp": "27082024183251",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, implementing the Hadoken button for you.",
         "message_id": "guest27082024183244",
