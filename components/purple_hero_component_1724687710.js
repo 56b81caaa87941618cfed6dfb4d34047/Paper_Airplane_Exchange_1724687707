@@ -6,7 +6,7 @@ INSTRUCTION: 3. Hero content: The main content of the landing page, including an
 -->
 
 <template>
-  <section id="hero-section-container">
+  <section id="hero-section-container" style="min-height: 470px">
     <div id="section-container" class="relative max-w-6xl mx-auto px-4 sm:px-6 bg-gradient-to-br from-pink-500 to-purple-700 min-h-screen flex items-center justify-center">
       <div id="hero-content-container" class="pt-32 pb-16 md:pt-52 md:pb-32">
         <!-- Hero content -->
