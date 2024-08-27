@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a hadoken button",
+        "message_id": "guest27082024183244",
+        "timestamp": "27082024183244",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the Hadoken button to be positioned on the screen?\", \"option1\": \"In a fixed position always on screen (please specify location e.g., bottom-right corner)\", \"option2\": \"Appear dynamically based on user actions (please specify trigger conditions)\"}, {\"question 2\": \"What specific action should the Hadoken button perform when clicked?\", \"option1\": \"Trigger an animation or visual effect\", \"option2\": \"Perform a specific function within the app (please specify)\"}], \"input_token_count\": 302, \"output_token_count\": 116, \"time_taken\": \"0:00:07.583572\"}",
         "message_id": "guest27082024181934",
