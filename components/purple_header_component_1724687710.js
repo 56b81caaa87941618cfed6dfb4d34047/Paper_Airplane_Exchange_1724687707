@@ -87,6 +87,18 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-pink-300">-&gt;</span> </span>
             </a>
           </li>
+          <li class="ml-6">
+            <button
+              id="hadoken-button"
+              class="btn-sm transition duration-150 ease-in-out w-full group relative text-white hover:text-pink-200 bg-purple-700 bg-opacity-50 hover:bg-opacity-70 rounded-full px-4 py-2"
+            >
+              <span class="relative inline-flex items-center">
+                Hadoken
+                <i class='bx bx-bomb ml-2'></i>
+              </span>
+            </button>
+          </li>
+        </ul>
         </ul>
 
         <!-- Mobile Menu -->
@@ -149,5 +161,13 @@ export default {
       tab: null,
     };
   },
+  methods: {
+    // Hadoken button click handler
+    onHadokenClick() {
+      console.log("Hadoken!");
+      // Add your Hadoken logic here
+    }
+  }
+};
 };
 </script>
