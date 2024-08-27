@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animated action for the Hadoken button, showcasing a paper airplane being launched with energy\", \"checked\": true}, {\"feature\": \"Sound effects accompanying the Hadoken button press\", \"checked\": false}, {\"feature\": \"A special effects page or section where users can choose different animations or effects for their paper airplane launch\", \"checked\": false}, {\"feature\": \"User feedback feature for rating or commenting on the effectiveness of the Hadoken launching effect\", \"checked\": false}, {\"feature\": \"Integration of a leaderboard showcasing top users who have used the Hadoken feature most effectively\", \"checked\": false}, {\"feature\": \"Option to customize the Hadoken effect with different colors or styles for premium users\", \"checked\": false}], \"input_token_count\": 223, \"output_token_count\": 151, \"time_taken\": \"0:00:05.450104\"}",
+        "message_id": "guest27082024181825",
+        "timestamp": "27082024181832",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! Adding a Hadoken button right away.",
         "message_id": "guest27082024181825",
