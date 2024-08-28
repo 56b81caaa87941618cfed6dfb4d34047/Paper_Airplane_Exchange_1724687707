@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the new paper airplane image to follow a realistic or cartoonish design style?\", \"option1\": \"Realistic design\", \"option2\": \"Cartoonish design\"}, {\"question 2\": \"Should the new paper airplane image replace all instances of the current image across the website, or only in specific sections?\", \"option1\": \"Replace all instances\", \"option2\": \"Replace in specific sections\"}], \"input_token_count\": 271, \"output_token_count\": 99, \"time_taken\": \"0:00:03.563868\"}",
+        "message_id": "guest28082024141208",
+        "timestamp": "28082024141214",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the image to a paper airplane",
         "message_id": "guest28082024141208",
