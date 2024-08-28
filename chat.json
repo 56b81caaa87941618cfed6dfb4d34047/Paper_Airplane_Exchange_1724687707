@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the image to a dinosaur",
+        "message_id": "guest28082024095524",
+        "timestamp": "28082024095525",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I apologize, as an AI language model, I do not have the capability to replace an image in this chat. However, you can easily find images of dinosaurs on the internet. Just type \"dinosaur images\" in your search engine and you will find a wide variety of pictures.",
         "message_id": "guest28082024095509",
