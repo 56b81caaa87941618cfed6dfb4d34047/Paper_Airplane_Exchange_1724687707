@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement dynamic image gallery for users to upload and showcase their paper airplane designs\", \"checked\": false}, {\"feature\": \"Add a hover effect to images for quick view of paper airplane details\", \"checked\": true}, {\"feature\": \"Integrate image zoom functionality on click for a closer look at the paper airplane designs\", \"checked\": false}, {\"feature\": \"Implement user profile avatars as paper airplane icons\", \"checked\": true}, {\"feature\": \"Add a feature to allow users to customize the paper airplane image with different colors and textures\", \"checked\": false}, {\"feature\": \"Implement an image carousel on the homepage to feature top-rated paper airplanes\", \"checked\": true}], \"input_token_count\": 225, \"output_token_count\": 155, \"time_taken\": \"0:00:05.691044\"}",
+        "message_id": "guest28082024141208",
+        "timestamp": "28082024141217",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the new paper airplane image to follow a realistic or cartoonish design style?\", \"option1\": \"Realistic design\", \"option2\": \"Cartoonish design\"}, {\"question 2\": \"Should the new paper airplane image replace all instances of the current image across the website, or only in specific sections?\", \"option1\": \"Replace all instances\", \"option2\": \"Replace in specific sections\"}], \"input_token_count\": 271, \"output_token_count\": 99, \"time_taken\": \"0:00:03.563868\"}",
+        "message_id": "guest28082024141208",
+        "timestamp": "28082024141214",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the image to a paper airplane",
+        "message_id": "guest28082024141208",
+        "timestamp": "28082024141209",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement an image gallery for showcasing various dinosaur models\", \"checked\": false}, {\"feature\": \"Add an interactive 3D model viewer for a more immersive display of dinosaur designs\", \"checked\": false}, {\"feature\": \"Enable user-uploaded custom images for a personalized touch in trading\", \"checked\": false}, {\"feature\": \"Incorporate a 'Featured Dinosaurs' section on the homepage to highlight special designs\", \"checked\": true}, {\"feature\": \"Implement dynamic image resizing for optimal viewing on all devices\", \"checked\": true}], \"input_token_count\": 224, \"output_token_count\": 125, \"time_taken\": \"0:00:06.306711\"}",
+        "message_id": "guest28082024101017",
+        "timestamp": "28082024101025",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific dinosaur image in mind or shall we choose one for you?\", \"option1\": \"I have a specific image in mind and will provide it\", \"option2\": \"Please choose a suitable dinosaur image for me\"}, {\"question 2\": \"Where in the app do you want this dinosaur image to be placed?\", \"option1\": \"Replace the current main banner image\", \"option2\": \"Use it in the background of the login page\"}], \"input_token_count\": 270, \"output_token_count\": 109, \"time_taken\": \"0:00:05.597794\"}",
+        "message_id": "guest28082024101017",
+        "timestamp": "28082024101025",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the image to a dinosaur",
         "message_id": "guest28082024101017",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable profile avatars with pre-set dinosaur images for users to choose from\", \"checked\": true}, {\"feature\": \"Dynamic backgrounds featuring different dinosaur habitats\", \"checked\": false}, {\"feature\": \"Interactive dinosaur-themed collectibles within the marketplace\", \"checked\": true}, {\"feature\": \"A dinosaur-era filter to categorize paper airplanes by historic periods\", \"checked\": true}, {\"feature\": \"In-app dinosaur facts pop-ups to educate users while they trade\", \"checked\": false}], \"input_token_count\": 429, \"output_token_count\": 104, \"time_taken\": \"0:00:03.412257\"}",
-        "message_id": "guest28082024095635",
-        "timestamp": "28082024095641",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "I am working on changing the image to a dinosaur.",
-        "message_id": "guest28082024095635",
-        "timestamp": "28082024095636",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the image to a dinosaur",
-        "message_id": "guest28082024095635",
-        "timestamp": "28082024095636",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "I'm sorry, as an AI language model, I do not have the ability to modify or change the image. However, you can easily find and download a dinosaur image from the internet and use it for your purpose.",
-        "message_id": "guest28082024095524",
-        "timestamp": "28082024095526",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the image to a dinosaur",
-        "message_id": "guest28082024095524",
-        "timestamp": "28082024095525",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the user requested various features related to a \"Hadoken\" button, indicating interest in its implementation. The AI acknowledged the request and confirmed that it would add the Hadoken button. The user was then presented with options for positioning the button on the screen and for defining its function when clicked. Additionally, the user received a checklist of potential features, some of which were already approved, including an animated effect on button press and a special deals section associated with the Hadoken. The AI consistently acknowledged the user's requests while also suggesting further features for potential implementation. At one point, the AI mentioned it could not replace an image in the chat but suggested the user search for dinosaur images online, after another user prompt requesting a dinosaur image. The conversation demonstrates an interactive exchange focused on enhancing the app's functionality while ensuring the user's input is considered throughout the development process.",
-        "timestamp": "28082024101018",
-        "message_id": "guest28082024101017"
+        "content": "The user engaged with the AI assistant about customizing features for their project. They requested to change an image to a dinosaur, but the AI clarified that it could not modify images directly but suggested searching online for dinosaur images. The user also asked the AI to add a Hadoken button, which was acknowledged with the intention to implement it. Subsequently, the AI provided the user with several options to choose from regarding the Hadoken button's screen positioning and functionality. Additionally, the AI offered multiple lists of potential features that could enhance the project, including customizable avatars, dynamic backgrounds, and interactive tutorials, to which the user could respond by selecting desired options. The listings included features related to the Hadoken, such as animated effects, sound effects, leaderboards, and special deals, and the AI noted each feature's status\u2014whether it was checked or not. Throughout the conversation, the AI consistently acknowledged the user's requests and input, demonstrating engagement in the project development process.",
+        "timestamp": "28082024141217",
+        "message_id": "guest28082024141208"
     }
 ]
