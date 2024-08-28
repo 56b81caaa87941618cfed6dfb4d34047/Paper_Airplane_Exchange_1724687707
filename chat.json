@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "I am sorry, as an AI language model, I do not have the capability to change the image as it is a task that requires visual design skills. However, you can easily search for a dinosaur image on the internet and use it as desired.",
+        "message_id": "guest28082024100227",
+        "timestamp": "28082024100229",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the image to a dinosaur",
         "message_id": "guest28082024100227",
