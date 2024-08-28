@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable profile avatars with pre-set dinosaur images for users to choose from\", \"checked\": true}, {\"feature\": \"Dynamic backgrounds featuring different dinosaur habitats\", \"checked\": false}, {\"feature\": \"Interactive dinosaur-themed collectibles within the marketplace\", \"checked\": true}, {\"feature\": \"A dinosaur-era filter to categorize paper airplanes by historic periods\", \"checked\": true}, {\"feature\": \"In-app dinosaur facts pop-ups to educate users while they trade\", \"checked\": false}], \"input_token_count\": 429, \"output_token_count\": 104, \"time_taken\": \"0:00:03.412257\"}",
+        "message_id": "guest28082024095635",
+        "timestamp": "28082024095641",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I am working on changing the image to a dinosaur.",
+        "message_id": "guest28082024095635",
+        "timestamp": "28082024095636",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the image to a dinosaur",
+        "message_id": "guest28082024095635",
+        "timestamp": "28082024095636",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I'm sorry, as an AI language model, I do not have the ability to modify or change the image. However, you can easily find and download a dinosaur image from the internet and use it for your purpose.",
+        "message_id": "guest28082024095524",
+        "timestamp": "28082024095526",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the image to a dinosaur",
+        "message_id": "guest28082024095524",
+        "timestamp": "28082024095525",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I apologize, as an AI language model, I do not have the capability to replace an image in this chat. However, you can easily find images of dinosaurs on the internet. Just type \"dinosaur images\" in your search engine and you will find a wide variety of pictures.",
         "message_id": "guest28082024095509",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the Hadoken button to be positioned on the screen?\", \"option1\": \"In a fixed position always on screen (please specify location e.g., bottom-right corner)\", \"option2\": \"Appear dynamically based on user actions (please specify trigger conditions)\"}, {\"question 2\": \"What specific action should the Hadoken button perform when clicked?\", \"option1\": \"Trigger an animation or visual effect\", \"option2\": \"Perform a specific function within the app (please specify)\"}], \"input_token_count\": 302, \"output_token_count\": 116, \"time_taken\": \"0:00:07.583572\"}",
-        "message_id": "guest27082024181934",
-        "timestamp": "27082024181944",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animated Hadoken effect on button press\", \"checked\": true}, {\"feature\": \"Sound effects for Hadoken action\", \"checked\": false}, {\"feature\": \"Special deals section unlocked with Hadoken\", \"checked\": true}, {\"feature\": \"User profile avatars with Hadoken themes\", \"checked\": false}, {\"feature\": \"Leaderboard for top Hadoken users\", \"checked\": true}, {\"feature\": \"Daily Hadoken challenge with rewards\", \"checked\": false}], \"input_token_count\": 256, \"output_token_count\": 114, \"time_taken\": \"0:00:08.117449\"}",
-        "message_id": "guest27082024181934",
-        "timestamp": "27082024181944",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a hadoken button to the project.",
-        "message_id": "guest27082024181934",
-        "timestamp": "27082024181935",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Add a hadoken button",
-        "message_id": "guest27082024181934",
-        "timestamp": "27082024181934",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animated action for the Hadoken button, showcasing a paper airplane being launched with energy\", \"checked\": true}, {\"feature\": \"Sound effects accompanying the Hadoken button press\", \"checked\": false}, {\"feature\": \"A special effects page or section where users can choose different animations or effects for their paper airplane launch\", \"checked\": false}, {\"feature\": \"User feedback feature for rating or commenting on the effectiveness of the Hadoken launching effect\", \"checked\": false}, {\"feature\": \"Integration of a leaderboard showcasing top users who have used the Hadoken feature most effectively\", \"checked\": false}, {\"feature\": \"Option to customize the Hadoken effect with different colors or styles for premium users\", \"checked\": false}], \"input_token_count\": 223, \"output_token_count\": 151, \"time_taken\": \"0:00:05.450104\"}",
-        "message_id": "guest27082024181825",
-        "timestamp": "27082024181832",
-        "component_file_name": "purple_header_component_1724687710",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In a recent conversation, the user suggested adding a Hadoken button, to which the AI responded positively, acknowledging it as a great idea and stating that it would be added right away. The AI then asked the user to describe the project in more detail to gather additional context. The user provided a brief prompt on their expectations, while the AI noted that it is trained on data up to October 2023.",
-        "timestamp": "28082024095510",
-        "message_id": "guest28082024095509"
+        "content": "The user requested the addition of a Hadoken button to their project. The AI offered a set of questions regarding the button's positioning and functionality, providing two options for each inquiry. The user was prompted to specify whether they wanted the button in a fixed location or to appear dynamically, as well as outlining the specific action the button should trigger. Following this, the AI presented a checklist of potential features for implementation, including the addition of animated effects and sound, various user engagement options, and a leaderboard for top users. The user checked several features, such as an animated Hadoken effect and a leaderboard, while leaving sound effects and user profile avatars unchecked. The AI acknowledged the request, confirming that the Hadoken button would be incorporated into the project immediately. The user was then asked to describe the project further for better understanding.",
+        "timestamp": "28082024095641",
+        "message_id": "guest28082024095635"
     }
 ]
