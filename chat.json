@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the image to a dinosaur",
+        "message_id": "guest28082024095635",
+        "timestamp": "28082024095636",
+        "component_file_name": "purple_header_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'm sorry, as an AI language model, I do not have the ability to modify or change the image. However, you can easily find and download a dinosaur image from the internet and use it for your purpose.",
         "message_id": "guest28082024095524",
