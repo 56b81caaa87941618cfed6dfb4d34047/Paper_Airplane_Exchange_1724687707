@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nChange the image to a dinosaur"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nChange the image to a paper airplane"
     }
 ]
