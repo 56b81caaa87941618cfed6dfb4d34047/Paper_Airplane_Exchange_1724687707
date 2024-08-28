@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Dear [Santa],\n\nMy name is [Your Name] and I am writing to you because I have been very good this year! I hope you are doing well and your reindeer are ready for their big journey.\n\nFor Christmas this year, I would love to receive [insert your Christmas wish list here]. It would make me very happy to see these gifts under our Christmas tree on Christmas morning.\n\nThank you for all that you do and for spreading joy around the world. I hope you have a safe journey and a Merry Christmas!\n\nLove,\n\n[Your Name]",
+        "message_id": "guest28082024095802",
+        "timestamp": "28082024095804",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add an email santa form",
         "message_id": "guest28082024095802",
