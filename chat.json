@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement an image gallery for showcasing various dinosaur models\", \"checked\": false}, {\"feature\": \"Add an interactive 3D model viewer for a more immersive display of dinosaur designs\", \"checked\": false}, {\"feature\": \"Enable user-uploaded custom images for a personalized touch in trading\", \"checked\": false}, {\"feature\": \"Incorporate a 'Featured Dinosaurs' section on the homepage to highlight special designs\", \"checked\": true}, {\"feature\": \"Implement dynamic image resizing for optimal viewing on all devices\", \"checked\": true}], \"input_token_count\": 224, \"output_token_count\": 125, \"time_taken\": \"0:00:06.306711\"}",
+        "message_id": "guest28082024101017",
+        "timestamp": "28082024101025",
+        "component_file_name": "purple_background_cta_component_1724687710",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific dinosaur image in mind or shall we choose one for you?\", \"option1\": \"I have a specific image in mind and will provide it\", \"option2\": \"Please choose a suitable dinosaur image for me\"}, {\"question 2\": \"Where in the app do you want this dinosaur image to be placed?\", \"option1\": \"Replace the current main banner image\", \"option2\": \"Use it in the background of the login page\"}], \"input_token_count\": 270, \"output_token_count\": 109, \"time_taken\": \"0:00:05.597794\"}",
         "message_id": "guest28082024101017",
