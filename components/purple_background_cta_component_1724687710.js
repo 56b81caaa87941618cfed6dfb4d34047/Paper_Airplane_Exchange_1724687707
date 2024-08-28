@@ -43,7 +43,7 @@
             Get Started
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-700">-&gt;</span>
           </a>
-          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Paper_Airplane_Exchange_1724687707/main/images/76512a76f01e464bac9e2bed3a6a325c.jpeg" alt="Paper Airplane Image" class="mt-8 rounded-lg" />
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Paper_Airplane_Exchange_1724687707/main/images/c87f3bd81373410f81ec2005208a464c.jpeg" alt="Paper Airplane Image" class="mt-8 rounded-lg" />
         </div>
       </div>
     </div>
