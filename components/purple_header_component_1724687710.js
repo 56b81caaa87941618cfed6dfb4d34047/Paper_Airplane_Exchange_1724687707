@@ -1,3 +1,10 @@
+<!--
+INSTRUCTION: Summary: HTML file that describes the header section including:
+INSTRUCTION: 1. Site branding with a logo on the left.
+INSTRUCTION: 2. Desktop navigation menu with links to different pages in the middle.
+INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
+-->
+
 <template>
   <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-50 backdrop-filter backdrop-blur-lg" id="header-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -5,7 +12,7 @@
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
           <a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip">
-            <img id="logo-image" class="max-w-none" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Paper_Airplane_Exchange_1724687707/main/images/b8084bf0fb414267a86bcf659ff565f2.jpeg" width="38" height="38" alt="Stellar">
+            <img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar">
           </a>
         </div>
 
